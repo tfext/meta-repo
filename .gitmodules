@@ -61,3 +61,6 @@
 [submodule "aws-jenkins"]
 	path = aws-jenkins
 	url = git@github.com:tfext/terraform-aws-jenkins.git
+[submodule "aws-web-app"]
+	path = aws-web-app
+	url = git@github.com:tfext/terraform-aws-web-app.git
