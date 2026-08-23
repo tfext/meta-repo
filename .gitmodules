@@ -1,0 +1,63 @@
+[submodule "aws-vpc"]
+	path = aws-vpc
+	url = git@github.com:tfext/terraform-aws-vpc.git
+[submodule "actions"]
+	path = actions
+	url = git@github.com:tfext/actions.git
+[submodule "aws-identity-pool"]
+	path = aws-identity-pool
+	url = git@github.com:tfext/terraform-aws-identity-pool.git
+[submodule "aws-vpc-data"]
+	path = aws-vpc-data
+	url = git@github.com:tfext/terraform-aws-vpc-data.git
+[submodule "aws-assume-role-policy"]
+	path = aws-assume-role-policy
+	url = git@github.com:tfext/terraform-aws-assume-role-policy.git
+[submodule "aws-base"]
+	path = aws-base
+	url = git@github.com:tfext/terraform-aws-base.git
+[submodule "aws-lb"]
+	path = aws-lb
+	url = git@github.com:tfext/terraform-aws-lb.git
+[submodule "aws-lambda-function"]
+	path = aws-lambda-function
+	url = git@github.com:tfext/terraform-aws-lambda-function.git
+[submodule "rrx-config"]
+	path = rrx-config
+	url = git@github.com:tfext/terraform-rrx-config.git
+[submodule "aws-rds"]
+	path = aws-rds
+	url = git@github.com:tfext/terraform-aws-rds.git
+[submodule "aws-ecs-cluster"]
+	path = aws-ecs-cluster
+	url = git@github.com:tfext/terraform-aws-ecs-cluster.git
+[submodule "aws-user-pool"]
+	path = aws-user-pool
+	url = git@github.com:tfext/terraform-aws-user-pool.git
+[submodule "aws-subnets"]
+	path = aws-subnets
+	url = git@github.com:tfext/terraform-aws-subnets.git
+[submodule "utilities-tagging"]
+	path = utilities-tagging
+	url = git@github.com:tfext/terraform-utilities-tagging.git
+[submodule "aws-nexus"]
+	path = aws-nexus
+	url = git@github.com:tfext/terraform-aws-nexus.git
+[submodule "aws-ecs-container-definition"]
+	path = aws-ecs-container-definition
+	url = git@github.com:tfext/terraform-aws-ecs-container-definition.git
+[submodule "aws-s3-bucket"]
+	path = aws-s3-bucket
+	url = git@github.com:tfext/terraform-aws-s3-bucket.git
+[submodule "aws-certificate"]
+	path = aws-certificate
+	url = git@github.com:tfext/terraform-aws-certificate.git
+[submodule "aws-ecs-service"]
+	path = aws-ecs-service
+	url = git@github.com:tfext/terraform-aws-ecs-service.git
+[submodule "aws-cloudfront"]
+	path = aws-cloudfront
+	url = git@github.com:tfext/terraform-aws-cloudfront.git
+[submodule "aws-jenkins"]
+	path = aws-jenkins
+	url = git@github.com:tfext/terraform-aws-jenkins.git
