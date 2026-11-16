@@ -61,3 +61,15 @@
 [submodule "aws-jenkins"]
 	path = aws-jenkins
 	url = git@github.com:tfext/terraform-aws-jenkins.git
+[submodule "aws-rds-postgres-role"]
+	path = aws-rds-postgres-role
+	url = git@github.com:tfext/terraform-aws-rds-postgres-role.git
+[submodule "aws-ecr-repository"]
+	path = aws-ecr-repository
+	url = git@github.com:tfext/terraform-aws-ecr-repository.git
+[submodule "aws-github-deploy"]
+	path = aws-github-deploy
+	url = git@github.com:tfext/terraform-aws-github-deploy.git
+[submodule "aws-web-app"]
+	path = aws-web-app
+	url = git@github.com:tfext/terraform-aws-web-app.git
